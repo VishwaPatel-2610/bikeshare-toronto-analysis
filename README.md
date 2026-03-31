@@ -25,7 +25,7 @@ Annual Members and Casual Riders.
 - 📅 90-day forecast projects seasonal demand decline through Q4 2024
 
 ## Dashboard Preview
-![Overview Page](powerbi/screenshots/page1_overview.png)
+![Overview Page]("C:\Users\vishw\OneDrive\Desktop\bikeshare-toronto-analysis\powerbi\Screenshots\page1_overview.png")
 
 ## Project Structure
 ```
