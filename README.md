@@ -92,7 +92,7 @@ git commit -m "Initial commit — Bike Share Toronto Analysis Project"
 git branch -M main
 ```
 ```
-git remote add origin https://github.com/YOUR-USERNAME/bikeshare-toronto-analysis.git
+git remote add origin https://github.com/VishwaPatel-2610/bikeshare-toronto-analysis.git
 ```
 ```
 git push -u origin main
