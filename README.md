@@ -25,7 +25,7 @@ Annual Members and Casual Riders.
 - 📅 90-day forecast projects seasonal demand decline through Q4 2024
 
 ## Dashboard Preview
-![Overview Page](![Overview Page](powerbi/Screenshots/page1_overview.png)")
+![Overview Page](powerbi/Screenshots/page1_overview.png)
 
 ## Project Structure
 ```
